@@ -7,6 +7,12 @@ UX framework for Subjects Beta
   in general. 
 
 
+
+
+## Requirements
+
+- SCSS 
+
 ## Notices
 
 - This repository may or not be moved to the subjects-beta repository until decision has 
