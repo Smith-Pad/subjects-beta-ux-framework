@@ -12,6 +12,8 @@ UX framework for Subjects Beta
 ## Requirements
 
 - SCSS 
+- Node.js
+- NPM
 
 
 
