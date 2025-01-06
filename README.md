@@ -22,6 +22,10 @@ UX framework for Subjects Beta
 - SCSS
   - `brew install scss`
 
+- NPM
+  - `brew install npm`
+
+
 ## Notices
 
 - This repository may or not be moved to the subjects-beta repository until decision has 
