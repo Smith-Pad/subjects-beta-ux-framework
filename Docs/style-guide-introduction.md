@@ -21,4 +21,5 @@ the top left corner of the UX.
 ## Single View (Second Screen kinda)
 
 For the second screen view, the back button will be on the top and the header name will
-be on the top as well. 
+be on the top as well. If necessary, this might be moved to the bottom for accessibility purposes
+likewise. 
