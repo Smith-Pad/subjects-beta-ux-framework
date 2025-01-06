@@ -22,7 +22,8 @@ the top left corner of the UX.
 
 For the second screen view, the back button will be on the top and the header name will
 be on the top as well. If necessary, this might be moved to the bottom for accessibility purposes
-likewise. For the header bar, the Back button can be adjusted based on the individual preferences. 
+likewise. For the header bar, the Back button can be adjusted based on the individual preferences 
+and types of devices that is used on.
 
 
 <img src="../Screenshot 2025-01-06 at 9.40.57 AM.png">
