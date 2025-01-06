@@ -13,6 +13,13 @@ UX framework for Subjects Beta
 
 - SCSS 
 
+
+
+## Installation of Dependencies
+
+- SCSS
+  - `brew install scss`
+
 ## Notices
 
 - This repository may or not be moved to the subjects-beta repository until decision has 
