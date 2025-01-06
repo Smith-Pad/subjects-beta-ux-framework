@@ -32,6 +32,7 @@ and types of devices that is used on.
 
 
 
-
+The contnet will be on the bottom of the header bar, which can be used
+to create UX graphics to the content, and may or not be animated. 
 
 <img src="../Screenshot 2025-01-06 at 9:50AM.png">
